@@ -1,6 +1,6 @@
 ---
-title: "Franklin County Search and Rescue"
-subtitle: "So that others may live"
+title: "Franklin County Search & Rescue"
+#subtitle: "So that others may live"
 image: /img/home-jumbotron.jpg
 blurb:
     heading: "Who we are:"
